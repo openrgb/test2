@@ -1,0 +1,3 @@
+proto3 test text
+proto3 test text
+proto3 test textproto3 test text
